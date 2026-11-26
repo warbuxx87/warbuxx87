@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:185FA5&height=180&section=header&text=Ryan%20Breen&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Engineer%20and%20Founder&descSize=20&descAlignY=58" width="100%" alt="Ryan Breen" />
 
-<a href="https://www.linkedin.com/in/ryan-breen-a53827451/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/breen-ryan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
