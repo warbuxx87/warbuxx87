@@ -23,4 +23,4 @@ Most of this work lives in private repositories. The commit history shows on my 
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/breenryan)
+[LinkedIn](https://www.linkedin.com/in/ryan-breen-a53827451/)
